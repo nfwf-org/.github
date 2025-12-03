@@ -36,7 +36,7 @@ Stay connected and follow our conservation efforts:
 
 - Twitter: [@nfwfnews](https://twitter.com/nfwfnews)
 - LinkedIn: [National Fish and Wildlife Foundation](https://www.linkedin.com/company/national-fish-and-wildlife-foundation)
-- Facebook: [FishandWildlife](https://www.facebook.com/FishandWildlife/))
+- Facebook: [FishandWildlife](https://www.facebook.com/FishandWildlife/)
 
 1625 Eye Street NW, Suite 300 | Washington, DC 20006
 T 202-857-0166 | F 202-857-0162
