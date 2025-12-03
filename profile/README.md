@@ -1,16 +1,12 @@
 # Welcome to the National Fish and Wildlife Foundation
 
 <p align="center">
-  <strong>Sustaining the legacy of conservation for future generations</strong>
+  <strong>The National Fish and Wildlife Foundation (NFWF) partners to foster sustainable and impactful conservation solutions so that people and nature thrive together.</strong>
 </p>
 
 ## About Us
 
 The **National Fish and Wildlife Foundation (NFWF)** is a private nonprofit organization dedicated to the conservation of fish, wildlife, plants, and the habitats on which they depend. Since 1984, NFWF has partnered with federal, state, tribal, and local governments, corporations, foundations, and individuals to support sustainable conservation practices that protect and restore our nation's natural resources.
-
-## Our Mission
-
-We sustain, restore, and enhance the nation's fish, wildlife, plants, and habitats through leadership conservation partnerships and strategic investments.
 
 ## What We Do
 
@@ -47,9 +43,3 @@ Stay connected and follow our conservation efforts:
 - Twitter: [@NFWF](https://twitter.com/NFWF)
 - LinkedIn: [National Fish and Wildlife Foundation](https://www.linkedin.com/company/national-fish-and-wildlife-foundation)
 - Facebook: [NFWF](https://www.facebook.com/NationalFishandWildlifeFoundation)
-
----
-
-<p align="center">
-  <em>Together, we can create a sustainable future for our natural resources.</em>
-</p>
