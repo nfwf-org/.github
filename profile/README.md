@@ -18,17 +18,17 @@ The **National Fish and Wildlife Foundation (NFWF)** is a private nonprofit orga
 
 ### Ways to Contribute
 
-- **Partner with Us** - Join our network of conservation partners
-- **Grant Opportunities** - Explore funding opportunities for conservation projects
-- **Donate** - Support our mission through charitable contributions
-- **Stay Informed** - Follow our conservation initiatives and success stories
+- **[Partner with Us](https://www.nfwf.org/become-partner)** - Join our network of conservation partners
+- **[Grant Opportunities](https://www.nfwf.org/programs)** - Explore funding opportunities for conservation projects
+- **[Donate](https://donate.nfwf.org/)** - Support our mission through charitable contributions
+- **[Stay Informed](https://www.nfwf.org/subscribe)** - Follow our conservation initiatives and success stories
 
 ## Resources
 
 - 🌐 [NFWF Website](https://www.nfwf.org)
 - 📰 [News & Updates](https://www.nfwf.org/media-center)
 - 📊 [Grant Programs](https://www.nfwf.org/programs)
-- 📧 [Contact Us](https://www.nfwf.org/contact)
+- 📧 [Contact Us]([https://www.nfwf.org/contact](https://www.nfwf.org/what-we-do/contact-nfwf))
 
 ## Connect With Us
 
