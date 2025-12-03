@@ -16,12 +16,6 @@ The **National Fish and Wildlife Foundation (NFWF)** is a private nonprofit orga
 - 💡 **Innovation** - Investing in science-based solutions and emerging conservation technologies
 - 🌱 **Community Engagement** - Empowering local communities in conservation efforts
 
-## Our Impact
-
-NFWF has awarded more than **$7 billion** in grants and leveraged over **$11 billion** in matching contributions to support conservation projects across all 50 states and U.S. territories.
-
-## Get Involved
-
 ### Ways to Contribute
 
 - **Partner with Us** - Join our network of conservation partners
