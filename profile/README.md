@@ -34,9 +34,9 @@ The **National Fish and Wildlife Foundation (NFWF)** is a 501(c)(3) nonprofit or
 
 Stay connected and follow our conservation efforts:
 
-- Twitter: [@NFWF](https://twitter.com/NFWF)
+- Twitter: [@nfwfnews](https://twitter.com/nfwfnews)
 - LinkedIn: [National Fish and Wildlife Foundation](https://www.linkedin.com/company/national-fish-and-wildlife-foundation)
-- Facebook: [NFWF](https://www.facebook.com/NationalFishandWildlifeFoundation)
+- Facebook: [FishandWildlife](https://www.facebook.com/FishandWildlife/))
 
 1625 Eye Street NW, Suite 300 | Washington, DC 20006
 T 202-857-0166 | F 202-857-0162
